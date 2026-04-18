@@ -2,7 +2,7 @@
 🔹 1. Abstract
 
 The Blinkit Analysis Dashboard is an interactive data visualization project designed to analyze and monitor key business metrics of a quick-commerce platform. This dashboard provides insights into sales performance, order distribution, profit trends, delivery efficiency, and customer behavior across multiple cities. It enables stakeholders to make data-driven decisions by offering a comprehensive view of operational and financial performance.
-Screenshot 2026-04-02 221918.png
+"C:\Users\kaviy\OneDrive\Pictures\Screenshots\Screenshot 2026-04-02 222033.png"
 🔹 2. Objectives
 To analyze total sales, orders, and profit across cities and categories
 To evaluate delivery partner performance and efficiency
